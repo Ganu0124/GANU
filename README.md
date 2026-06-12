@@ -45,7 +45,7 @@
 ## 🎬 Portfolio Demo
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ganu0124/Ganu/main/vid.gif" width="90%" alt="Portfolio Demo"/>
+  <video src="PASTE_VIDEO_URL_HERE" width="90%" autoplay loop playsinline controls></video>
 </div>
 
 <br/>
