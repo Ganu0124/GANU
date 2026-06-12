@@ -45,7 +45,7 @@
 ## 🎬 Portfolio Demo
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ganu0124/Ganu/main/vid.gif" width="90%" alt="Portfolio Demo"/>
+  <img src="./vid.gif" width="90%"> 
 </div>
 
 <br/>
