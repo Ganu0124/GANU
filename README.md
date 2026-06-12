@@ -45,9 +45,7 @@
 ## 🎬 Portfolio Demo
 
 <div align="center">
-
-[![▶ Watch Portfolio Demo](https://img.shields.io/badge/▶%20Watch%20Portfolio%20Demo-6D28D9?style=for-the-badge&logoColor=white&labelColor=0F0A1E)](https://github.com/Ganu0124/Ganu/blob/main/vid.mp4)
-
+  <img src="https://raw.githubusercontent.com/Ganu0124/Ganu/main/vid.gif" width="90%" alt="Portfolio Demo"/>
 </div>
 
 <br/>
